@@ -12,8 +12,9 @@ This code is edited from [Link](https://dilisilib.wordpress.com/hacking/xbox-360
 Add by me ArtCodeZen:
 > Led pins 5 and 6 of arduino UNO
 > Removed the Arduino sleep, because the Arduino has to change the brightness in execution time
-You can use and modify.
-![ImageRF](xboxRF.png)
+> You can use and modify.
+
+![ImageRF](xboxRF.jpg)
 
 
 # About 
