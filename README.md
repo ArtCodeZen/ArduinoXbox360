@@ -21,9 +21,9 @@ Add by me ArtCodeZen:
 
 ## All credits to your respective authors and developers
 
-> Initial developer: yaywoop
-> Additional Ideas : Alexander Martinez
-> Arduino MEGA Xbox360 and Slim Module controller: gr33nonline
+1. Initial developer: yaywoop
+2. Additional Ideas : Alexander Martinez
+3. Arduino MEGA Xbox360 and Slim Module controller: gr33nonline
 
 
 
