@@ -1,4 +1,4 @@
-# ArduinoXbox360
+# ArduinoXbox360 Controller
 
 # Soldering the pins
 Image from <https://gr33nonline.wordpress.com/2015/09/19/make-an-xbox-receiver/>
